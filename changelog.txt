@@ -1,0 +1,40 @@
+= 2.1.0 =
+* FIX: Fixed sidebar background and height
+* FIX: Fixed sidebar colour (based on wrapper)
+* UPDATE: Updated compatibility with WordPress 4.7
+* UPDATE: Added background colour picker (customizer)
+* UPDATE: Added custom CSS (customizer)
+* UPDATE: Updated FontAwesome library
+* UPDATE: Small UI tweaks
+* FEATURE: Added custom logo (customizer)
+
+= 2.0.3 =
+* UPDATE: Input field UI tweaks
+* UPDATE: Updated author links
+
+= 2.0.2 =
+* FIX: Fixed theme URL
+* FIX: Fixed no new lines on theme templates
+* UPDATE: Updated compatibility with WordPress 4.5
+* UPDATE: Removed Genericon icons
+
+= 2.0.1 =
+* FIX: Updated Flexslider to fix a JS notice
+* UPDATE: Various UI improvements
+* UPDATE: Changed caption style for better visibility
+* UPDATE: Updated CSS styles for latest browser compatibility
+* UPDATE: Merge several CSS colours for better consistency
+
+= 2.0.0 =
+* FIX: Fixed widget behaviour
+* FIX: Fixed comment form not respecting latest WordPress field order
+
+* FEATURE: Added left sidebar page template
+* FEATURE: Added right sidebar page template
+* FEATURE: Added fullwidth sidebar page template
+* FEATURE: Added hover effect carousel
+* FEATURE: Added hero image effect on scroll (homepage)
+* FEATURE: Brand new mobile menu
+
+* UPDATE: Removed deprecated code in functions.php
+* UPDATE: Updated FontAwesome library
